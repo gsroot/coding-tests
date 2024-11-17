@@ -1,0 +1,1 @@
+printf '%s ' "${my_array[@]}"
